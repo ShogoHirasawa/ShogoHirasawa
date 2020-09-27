@@ -1,6 +1,6 @@
 # Portfolio
 
-this is Portfolio of Shogo Hirasawa
+This is Portfolio of Shogo Hirasawa
 ---
 
 ## Note
