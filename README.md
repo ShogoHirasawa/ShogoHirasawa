@@ -15,3 +15,6 @@ This is Portfolio of Shogo Hirasawa
 ## Shogo Blog
 > 現在制作中。　Jekyllを使ったブログ。
 
+## 青山学院大学 古橋研究室 webページ
+>自身が所属している、研究室のwebページです。研究しているグラフィックレコーディングに関する日々の記録、ポートフォリオを掲載しています。
+
