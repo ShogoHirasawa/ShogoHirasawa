@@ -22,3 +22,7 @@ This is Portfolio of Shogo Hirasawa
 自身が所属している、研究室のwebページです。研究しているグラフィックレコーディングに関する日々の記録、ポートフォリオを掲載しています。   
 This is the web page of the laboratory to which I belong. The daily records and portfolio of graphic recordings that I am studying are posted.
 
+## Todoリスト   
+>https://github.com/ShogoHirasawa/todo-list   
+JSを用いて作った簡易的なTodoリスト
+
