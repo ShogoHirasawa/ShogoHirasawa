@@ -23,6 +23,6 @@ This is Portfolio of Shogo Hirasawa
 This is the web page of the laboratory to which I belong. The daily records and portfolio of graphic recordings that I am studying are posted.
 
 ## Todoリスト   
->https://github.com/ShogoHirasawa/todo-list   
+>https://shogohirasawa.github.io/todo-list/    
 JSを用いて作った簡易的なTodoリスト
 
