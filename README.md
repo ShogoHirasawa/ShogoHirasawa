@@ -24,5 +24,10 @@ This is the web page of the laboratory to which I belong. The daily records and 
 
 ## Todoリスト   
 >https://shogohirasawa.github.io/todo-list/    
-JSを用いて作った簡易的なTodoリスト
+JSを用いて作った簡易的なTodoリスト   
+A simple todo list made with JS.
 
+## ニュースアプリ
+> https://github.com/ShogoHirasawa/news-app_React
+Reactを用いたニュースアプリ制作   
+News app creation using React
