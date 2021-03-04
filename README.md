@@ -28,6 +28,6 @@ JSを用いて作った簡易的なTodoリスト
 A simple todo list made with JS.
 
 ## ニュースアプリ
-> https://github.com/ShogoHirasawa/news-app_React
+> https://github.com/ShogoHirasawa/news-app_React   
 Reactを用いたニュースアプリ制作   
 News app creation using React
