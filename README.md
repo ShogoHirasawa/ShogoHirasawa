@@ -14,8 +14,9 @@ This is Portfolio of Shogo Hirasawa
  It is an application that summarizes the store information of Azamino, Aoba-ku, Yokohama-shi, Kanagawa, Japan. I made it using Glide.
  
  
-## Shogo Blog
-> 現在制作中。　Jekyllを使ったブログ。
+## 古橋研ラジオ   
+> https://youtu.be/1qn_iyCrB3Q   
+青山学院大学 古橋研究室の紹介のためのラジオ   
 
 ## 青山学院大学 古橋研究室 webページ
 >https://furuhashilab.github.io/startbootstrap-clean-blog-jekyll/   
