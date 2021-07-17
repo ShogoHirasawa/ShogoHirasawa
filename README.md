@@ -6,7 +6,13 @@ This is Portfolio of Shogo Hirasawa
 ## Note
 > https://note.com/origami_1   
  日頃の生活を綴った日記であったり、気になったニュースを取り上げた記事を作っています   
- I make a diary that describes my daily life and articles that cover news that interests me.
+ I make a diary that describes my daily life and articles that cover news that interests me.   
+
+## NASA INTERNATIONAL SPACE APPS CHALLENGE 2019   
+> https://2019.spaceappschallenge.org/challenges/living-our-world/smash-your-sdgs/teams/ichige-/project
+  NASA INTERNATIONAL SPACE APPS CHALLENGE 2019 に日本代表として参加。3Dモデリングの技術を用いてNASA×お弁当をコンセプトにした作品を製作。   
+  Participated in the NASA INTERNATIONAL SPACE APPS CHALLENGE 2019 as a representative of Japan, using 3D modeling to create a work based on the concept of NASA x lunchbox.
+  
  
  ## Azamino Guide
  > https://garrulous-lake-9366.glideapp.io/   
