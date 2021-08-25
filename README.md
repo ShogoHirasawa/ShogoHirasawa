@@ -7,6 +7,12 @@ This is Portfolio of Shogo Hirasawa
 > https://note.com/origami_1   
  日頃の生活を綴った日記であったり、気になったニュースを取り上げた記事を作っています   
  I make a diary that describes my daily life and articles that cover news that interests me.   
+ 
+## Graphic recording
+> https://www.instagram.com/grareco_shogo/   
+グラフィックレコーディングのポートフォリオ   
+ Graphic Recording Portfolio
+  
 
 ## NASA INTERNATIONAL SPACE APPS CHALLENGE 2019   
 > https://2019.spaceappschallenge.org/challenges/living-our-world/smash-your-sdgs/teams/ichige-/project   
