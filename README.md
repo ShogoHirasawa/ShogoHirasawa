@@ -46,5 +46,5 @@ Reactを用いたニュースアプリ制作
 News app creation using React   
 
 ## 国連UNVT Hackthon certificate   
-[UNVT_Hackathon_Certificate_ShogoHirasawa.pdf](https://github.com/ShogoHirasawa/ShogoHirasawa/files/7766991/UNVT_Hackathon_Certificate_ShogoHirasawa.pdf)
+https://github.com/unvt/hackathonmeetup202112/blob/main/certificates/UNVT_Hackathon_Certificate_ShogoHirasawa.pdf
 
