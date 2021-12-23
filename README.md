@@ -43,4 +43,8 @@ A simple todo list made with JS.
 ## ニュースアプリ
 > https://github.com/ShogoHirasawa/news-app_React   
 Reactを用いたニュースアプリ制作   
-News app creation using React
+News app creation using React   
+
+## 国連UNVT Hackthon certificate   
+[UNVT_Hackathon_Certificate_ShogoHirasawa.pdf](https://github.com/ShogoHirasawa/ShogoHirasawa/files/7766991/UNVT_Hackathon_Certificate_ShogoHirasawa.pdf)
+
