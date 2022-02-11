@@ -1,6 +1,6 @@
 # Portfolio
 
-This is Portfolio of Shogo Hirasawa
+青山学院大学 古橋研究室 4年 平澤彰悟（Shogo Hirasawa)
 ---
 
 ## Note
