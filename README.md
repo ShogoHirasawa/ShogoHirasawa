@@ -1,6 +1,6 @@
 # Portfolio
 
-青山学院大学 古橋研究室 4年 平澤彰悟（Shogo Hirasawa)
+東京大学大学院 学際情報学府 M1（Shogo Hirasawa)
 ---
 
 ## Note
