@@ -1,6 +1,6 @@
-# Portfolio
+# ShogoHirasawa
 
-東京大学大学院 学際情報学府 M1（Shogo Hirasawa)
+The University of Tokyo,Graduate School of Interdisciplinary Information Studies
 ---
 
 ## Note
