@@ -1,7 +1,7 @@
-# 
+## Hey 👋, I am ShogoHirasawa
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShogoHirasawa&theme=default)
 
-The University of Tokyo,Graduate School of Interdisciplinary Information Studies
----
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShogoHirasawa&theme=default)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShogoHirasawa&theme=default)
 
 ## Note
 > https://note.com/origami_1   
