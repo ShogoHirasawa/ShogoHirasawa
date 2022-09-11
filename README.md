@@ -1,4 +1,4 @@
-# ShogoHirasawa
+# 
 
 The University of Tokyo,Graduate School of Interdisciplinary Information Studies
 ---
