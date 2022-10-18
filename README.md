@@ -40,7 +40,7 @@
   -  Third place prize
   -  Competition to solve local issues using open data.
 
-- **The United Nations Vector Tile Toolkit** (August19-29th , 2022)
+- **The United Nations Vector Tile Toolkit** (January 19th, 2022)
   - Speaker at UN-GGIM WG-Disasters TG-B meeting
   - Contributor to The United Nations Vector Tile Toolkit (UNVT)
 
