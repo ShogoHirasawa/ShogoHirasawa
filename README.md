@@ -15,14 +15,20 @@
  - Contributors of [UNVT Portable](https://github.com/unvt/portable)🇺🇳
 
 ## Education
+- 2022-present
+   - The University of Tokyo, Graduate School of Interdisciplinary Information Studies
 - 2017-2022
   - Aoyama Gakuin University, School of Global Studies and Collaboration
-- 2022-present
-  - The University of Tokyo, Graduate School of Interdisciplinary Information Studies
 
 ## Career
+
+- **Japan Aerospace Exploration Agency - JAXA**(2022-present)
+  - Internship, Science Satellite Operation and Data Archive Unit 
+    - Creation of 3D contents using lunar data
+    - Database design for lunar surface data
+
 - **Mapbox Japan G.K., Tokyo** (2021-present)
-  - Internship, Marketing and Technical division
+  - Internship, Science Satellite Operation and Data Archive Unit 
     - Creating map content using Mapbox GL JS
     - Updating Yahoo maps when there are highway updates.
 
