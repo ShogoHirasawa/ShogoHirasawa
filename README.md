@@ -22,7 +22,7 @@
 
 ## Career
 
-- **Japan Aerospace Exploration Agency - JAXA**(2022-present)
+- **Japan Aerospace Exploration Agency - JAXA**(2022-2023)
   - Internship, Science Satellite Operation and Data Archive Unit 
     - Creation of 3D contents using lunar data
     - Database design for lunar surface data
