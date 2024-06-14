@@ -27,12 +27,12 @@
     - Creation of 3D contents using lunar data
     - Database design for lunar surface data
 
-- **Mapbox Japan G.K., Tokyo** (2021-present)
+- **Mapbox Japan G.K., Tokyo** (2021-2024)
   - Internship, Science Satellite Operation and Data Archive Unit 
     - Creating map content using Mapbox GL JS
     - Updating Yahoo maps when there are highway updates.
 
-- **The Japan Research Institute, Tokyo** (2019-present)
+- **The Japan Research Institute, Tokyo** (2019-2024)
   - Internship, Research division 
     -  Research on foreign legal systems, academic research, and technology news.
 
