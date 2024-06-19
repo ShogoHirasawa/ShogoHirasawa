@@ -21,7 +21,7 @@
   - Aoyama Gakuin University, School of Global Studies and Collaboration
 
 ## Career
-- **Eukarya Inc.**(2022-2023)
+- **Eukarya Inc.**(2024-now)
    - Fulltime, Overseas Business Department
     - GIS Engineer
     - Disaster analysis and visualisation of disasters caused by El Niño events in the South American region.
