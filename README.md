@@ -1,4 +1,6 @@
 # Hey 👋, I am ShogoHirasawa 
+Shogo Hirasawa graduated from the University of Tokyo, majoring in Spatial Informatics. His academic journey includes an undergraduate degree from Aoyama Gakuin University, where he studied at the School of Global Studies and Collaboration. Professionally, he has worked with Eukarya Inc. in their Overseas Business Department as a GIS Engineer, focusing on disaster analysis related to El Niño in South America. He has also interned with the Japan Aerospace Exploration Agency (JAXA), contributing to satellite data management and digital mapping. His research contributions have been recognized at notable international events such as FOSS4G and the NASA International Space Apps Challenge.   
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShogoHirasawa&theme=default)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShogoHirasawa&theme=default)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShogoHirasawa&theme=default)
