@@ -15,12 +15,16 @@
  - Contributors of [UNVT Portable](https://github.com/unvt/portable)🇺🇳
 
 ## Education
-- 2022-present
+- 2022-2024
    - The University of Tokyo, Graduate School of Interdisciplinary Information Studies
 - 2017-2022
   - Aoyama Gakuin University, School of Global Studies and Collaboration
 
 ## Career
+- **Eukarya Inc.**(2022-2023)
+   - Fulltime, Overseas Business Department
+    - GIS Engineer
+    - Disaster analysis and visualisation of disasters caused by El Niño events in the South American region.
 
 - **Japan Aerospace Exploration Agency - JAXA**(2022-2023)
   - Internship, Science Satellite Operation and Data Archive Unit 
