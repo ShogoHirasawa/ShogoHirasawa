@@ -8,11 +8,10 @@ Shogo Hirasawa graduated from the University of Tokyo, majoring in Spatial Infor
 ## Follo me!
 
  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ShogoHirasawaa/)
- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Shogo_Hirasawa)
+ [![X](https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=X&logoColor=white&color=black)](https://twitter.com/Shogo_Hirasawa)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shogohirasawa/?locale=en_US)
  
  ## Profile
- - Graduate student at the University of Tokyo🏫
  - Major in Spatial Informatics🗺️
  - Contributors of [UNVT Portable](https://github.com/unvt/portable)🇺🇳
 
